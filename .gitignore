@@ -1,0 +1,5 @@
+# Raw data, the report file and the local export script stay off the repository
+data/
+*.pbix
+*.pbip
+export_jobs.py
